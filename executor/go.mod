@@ -22,7 +22,7 @@ require (
 	go.uber.org/automaxprocs v1.4.0
 	go.uber.org/zap v1.25.0
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
-	google.golang.org/grpc v1.54.0
+	google.golang.org/grpc v1.56.3
 	gotest.tools v2.2.0+incompatible
 	k8s.io/api v0.28.4
 	sigs.k8s.io/controller-runtime v0.16.3
@@ -72,7 +72,7 @@ require (
 	gomodules.xyz/jsonpatch/v2 v2.4.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230525234030-28d5490b6b19 // indirect
-	google.golang.org/protobuf v1.31.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
